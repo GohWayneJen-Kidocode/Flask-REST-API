@@ -80,5 +80,3 @@ api.add_resource(Video, "/video/<int:video_id>")
 
 if __name__ == "__main__":
     app.run(debug=True)
-
-#took like an hour to do all this code and delete b4 commit pls maofjsdnbhlofj
